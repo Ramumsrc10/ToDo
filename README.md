@@ -1,2 +1,27 @@
-# ToDo
-![Screenshot 2023-08-21 001435](https://github.com/Ramumsrc10/ToDo/assets/111674550/42f688b7-369a-472d-a3fb-c4470fef29da)
+## .preview
+![To-Do List App](https://i.ibb.co/h73STxF/screencapture-localhost-5500-2020-11-29-22-11-39.png)
+
+## .features
+- [x] Show tasks list
+- [x] Add new task
+- [x] Complete task
+- [x] Delete task
+- [x] Edit task
+- [x] Clear all tasks
+- [x] Clear complete tasks
+- [x] Save on local storage
+- [x] Reverse sort by id
+- [x] Show message if not task
+- [x] Show toast when add, delete task
+- [x] Change alert box to modal
+- [x] Custom scrollbar
+- [x] Responsivity
+
+## .tools
+- Css Framework: [Semantic UI](https://semantic-ui.com)
+- Toast or Notification: [Noty](https://ned.im/noty)
+
+## .contact
+- Email: [dev.mehdineysi@gmail.com](mailto:dev.mehdineysi@gmail.com)
+- Instagram: [@neysidev](https://instagram.com/neysidev)
+- Twitter: [@neysidev](https://twitter.com/neysidev)
